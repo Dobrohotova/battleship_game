@@ -1,0 +1,56 @@
+.pole {
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    background-color: aqua;
+    float:left;
+}
+.clear{
+    clear: both;
+}
+
+.left{
+	height: auto;
+	width: 50%;
+	float: left;
+}
+
+.right{
+	height: auto;
+	width: 50%;
+	float: right;
+}
+
+.extra{
+	width: 60px;
+	margin:5px; 
+	margin-left: 60px;
+	float: left;
+}
+
+.border2{
+	border:2px solid black;
+}
+
+.imaBrod{
+	background-color: #8c264c;
+}
+
+.bg5 {
+	background-color: #8c264c;
+}
+
+.bg4 {
+	background-color: #30b080;
+}
+
+.bg3 {
+	background-color: #3052b0;
+}
+
+.bg2 {
+	background-color: #55b030;
+}
+.bg1 {
+	background-color: #eae23e;
+}
